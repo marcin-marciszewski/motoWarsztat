@@ -1,4 +1,4 @@
-# Telemedi - zadanie
+# Motowarsztat - zadanie
 
 ### Instalation:
 
