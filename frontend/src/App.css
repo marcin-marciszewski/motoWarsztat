@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #e2d5de;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.close {
+  cursor: pointer;
+  font-size: 20px;
+}
